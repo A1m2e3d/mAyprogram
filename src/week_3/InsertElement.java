@@ -1,6 +1,6 @@
 package week_3;
 
-public class InsertElemnet {
+public class InsertElement {
 
     public static void main(String[] args) {
         int[] mySum = { 67, 56, 78, 87 };
