@@ -14,7 +14,7 @@ ex 1 -
 ex 2 - ok
 ex 3 - ok
 ex 4 - ok
-ex 5 - 
+ex 5 - o sa facem si colectii, deocamdata e prea avansat cu LinkedHashSet
 ex 6 - ok
 ex 7 - 
 ex 8 - 
