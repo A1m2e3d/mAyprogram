@@ -24,3 +24,14 @@ ex 10 -
 astept si restul de teme
 
 **Week_4:**
+
+
+
+
+**Week_7:**
+ex 1 - e ok
+ex 2 - ?
+ex 3 - ?
+
+primul exercitiu e bun, am folosit acel truc cu stergerea acoladei '}' la sfarsit
+ca sa iti faca o aranjare frumoasa a codului, asteptam pe urmatoarele exercitii
